@@ -17,6 +17,7 @@
 identity: Soheyl Taheri
 role: Autonomous AI & Security Engineer
 focus:
+  - Enterprise Clean Architecture & Vector RAG (FastAPI, pgvector, Redis)
   - Autonomous Multi-Agent Orchestration & LLM Workflows
   - Security Research, Protocol Reverse-Engineering & Pen-Testing
   - High-Concurrency Backend Systems & Client Automation (Telethon)
@@ -26,22 +27,41 @@ status: "Building, breaking, optimizing."
 
 ---
 
+### 🚀 Featured Engineering Projects
+
+| Repository | Focus & Architecture | Tech Stack | Status |
+|:---|:---|:---|:---:|
+| **[nexus-rag-core](https://github.com/soheyltaheri/nexus-rag-core)** | Enterprise Asynchronous RAG & Semantic Intelligence Platform with Clean Architecture | FastAPI, pgvector, PostgreSQL, Redis Semantic Cache, Alembic | ![CI](https://img.shields.io/badge/CI-Passing-brightgreen?style=flat-square) |
+| **[ai-news-bot](https://github.com/soheyltaheri/ai-news-bot)** | Autonomous Multi-Source AI News Curator, Deduplicator & Telegram Broadcaster (81 Tests) | Python, Telethon, OpenAI, SQLite, Pytest Suite | ![Tests](https://img.shields.io/badge/Tests-81%20Passed-brightgreen?style=flat-square) |
+| **[zarrin-gold-gallery](https://github.com/soheyltaheri/zarrin-gold-gallery)** | Luxury Iranian Gold E-Commerce & Live TGJU Price Valuation Engine | React 19, Vite 8, Tailwind CSS v4, Lucide | ![Production](https://img.shields.io/badge/UI-Production-blue?style=flat-square) |
+| **[modern-house-3d](https://github.com/soheyltaheri/modern-house-3d)** | Interactive 3D Architectural First-Person Exploration in WebGL | Three.js, WebGL, Procedural Shaders, PointerLock | ![Demo](https://img.shields.io/badge/Demo-Live%20WebGL-orange?style=flat-square) |
+
+---
+
 ### 🛠️ Tech Stack & Ecosystem
 
 <div align="center">
 
-#### **Languages**
+#### **Languages & Core**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bash](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
+#### **Backend & Databases**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-Vector_Search-008080?style=for-the-badge&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logoColor=white)
+
 #### **AI & Automation**
 ![Hermes Agent](https://img.shields.io/badge/Hermes_Agent-00D26A?style=for-the-badge&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Telethon](https://img.shields.io/badge/Telethon-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Pyrogram](https://img.shields.io/badge/Pyrogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 #### **Security & Infrastructure**
